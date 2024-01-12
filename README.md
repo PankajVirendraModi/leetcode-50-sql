@@ -1,6 +1,6 @@
 # leetcode-50-sql
 
-+-------------+---------+
+
 | Column Name | Type    |
 +-------------+---------+
 | product_id  | int     |
