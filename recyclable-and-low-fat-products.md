@@ -14,7 +14,7 @@ Table: Products
  
 
 Products table:
-|-------------|----------|------------|
+
 | product_id  | low_fats | recyclable |
 |-------------|----------|------------|
 | 0           | Y        | N          |
@@ -22,7 +22,7 @@ Products table:
 | 2           | N        | Y          |
 | 3           | Y        | Y          |
 | 4           | N        | N          |
-|-------------|----------|------------|
+
 
 Q. Write a solution to find the ids of products that are both low fat and recyclable. Return the result table in any order.
 
