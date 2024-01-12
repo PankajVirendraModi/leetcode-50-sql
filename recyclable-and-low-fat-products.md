@@ -1,7 +1,7 @@
 1757. Recyclable and Low Fat Products
 Table: Products
 
-|-------------|---------|
+
 | Column Name | Type    |
 |-------------|---------|
 | product_id  | int     |
