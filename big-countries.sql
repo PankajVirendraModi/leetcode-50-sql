@@ -39,3 +39,13 @@ World table:
 | Andorra     | Europe    | 468     | 78115      | 3712000000   |
 | Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
 +-------------+-----------+---------+------------+--------------+
+
+
+
+`PostgreSQL`
+```
+SELECT name, population, area
+FROM World
+where area >= 3000000 or population >= 25000000
+ORDER BY name; 
+```
