@@ -2,7 +2,7 @@
 
 
 | Column Name | Type    |
-+-------------+---------+
+|-------------|---------|
 | product_id  | int     |
 | low_fats    | enum    |
 | recyclable  | enum    |
